@@ -1,0 +1,2 @@
+# frankpsy-fastled-arduino-sketches
+My repository of random sketches for WS2812B / Neopixel RGB lighting strips and similar for Arduino. Most sketches require a minimum of three potentiometers (for RGB control mainly) and two pushbuttons to work (wired from pin to ground, sketches use the internal pullup resistor). FastLED library needs to be installed. The pin numbers can be changed in the constants at the top. These are largely unpolished and uncommented and are provided for your entertainment / lulz. Enjoy.
